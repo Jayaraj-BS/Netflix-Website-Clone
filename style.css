@@ -1,0 +1,329 @@
+body{
+    background-image: url(./netflix\ bg.png);
+     background-size:auto; 
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+.logo{
+    width: 15%;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 8px 15px;
+    color: #fff;
+    background-color: #e50914;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+.nav{
+    padding-top: 5px;
+    padding-left: 2vw;
+    padding-right: 5vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+select{
+    margin-left: 70%;
+    padding: 8px;
+}
+.content{
+    color: #fff;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 30%;
+}
+.content h1{
+    font-size: 50px;
+
+}
+.content h2{
+    font-size: 30px;
+}
+
+.mail{
+    width: 100%;
+    height: fit-content;
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mail input{
+    outline: none;
+    border: none;
+    padding: 12px 10px;
+    size: 1em;
+}
+
+.mail a{
+    height: fit-content;
+    background-color: #e50914;
+    color: #fff;
+    padding: 18px 12px;
+    text-decoration: none;
+}
+
+ #bgc{
+    margin: auto;
+    background-color: black;
+    height: 4200px;
+    width:  1341px;
+}
+#one{
+    height: 500px;
+    width: 700px;
+    position: absolute;
+    left: 600px;
+}
+#he1{
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    left: 130px;
+}
+#he4{
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    position: absolute;
+    left: 130px;
+}
+#he12{
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    left: 800px;
+    top: 1520px;
+}
+#he124{
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    position: absolute;
+    left: 800px;
+}
+#two{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 100px;
+    top: 1400px;
+}
+#three{
+    height: 350px;
+    width: 700px;
+    position: absolute;
+    left: 580px;
+}
+#he13{
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    left: 110px;
+}
+#he14{
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    position: absolute;
+    left: 110px;
+}
+#he144{
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    left: 800px;
+}
+#four{
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    left: 100px;
+    top: 2800px;
+}
+#he1444{
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    position: absolute;
+    left: 800px;
+}
+
+#footh{
+    color: white;
+    font-size: 60px;
+}
+.footle{
+    height: 60px;
+    width: 50%;
+    background-color: gray;
+}
+.foottext{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 100;
+    opacity: 0.8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.footde{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    color: white;
+}
+
+.mailtwo{
+    width: 100%;
+    height: fit-content;
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+#inp{
+    outline: none;
+    border: none;
+    padding: 12px 10px;
+    size: 1em;
+}
+
+#an{
+    height: fit-content;
+    background-color: #e50914;
+    color: #fff;
+    padding: 18px 12px;
+    text-decoration: none;
+}
+
+#foot{
+    background-color: black;
+    opacity: 0.7;
+    height: 300px;
+    width: 1330px;
+}   
+#hea3{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 100px;
+}
+#privacy{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 1100px;
+}
+#terms{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 800px;
+}
+#help{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 500px;
+}
+#faq{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 250px;
+}
+#corinfo{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 500px;
+}
+#cookpref{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 250px;
+}
+#wtow{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 800px;
+}
+#tou{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 1100px;
+}
+#priv{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 250px;
+}
+#jobs{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 500px;
+}
+#acnt{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 800px;
+}
+#contct{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 1100px;
+}
+#spedtest{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 250px;
+}
+#legnot{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 500px;
+}
+#onnet{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 800px;
+}
+#lastsec{
+    position: relative;
+    right: 900px;
+    font-size: 18px;
+    background-color: black;
+    opacity: 0.5;
+    color: white; 
+}
+#netind{
+    color: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 250px;
+}
+
+
+
+
+
